@@ -1,0 +1,6 @@
+.disabled:hover{
+    cursor:default;
+}
+.disabled{
+    opacity: 0.4;
+}
